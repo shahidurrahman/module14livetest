@@ -56,6 +56,7 @@ class RecipeListScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Recipe Titles'),
+        backgroundColor: Colors.orange,
       ),
       body: ListView.builder(
         itemCount: recipes.length, // Total number of items in the list
