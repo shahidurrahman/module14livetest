@@ -17,7 +17,7 @@ const String recipeJson = '''
   },
   {
     "id": "3",
-    "title": "Vegetable Stair Fry",
+    "title": "Vegetable Stir Fry",
     "ingredients": ["mixed vegetables", "soy sauce", "noodles"]
   }
 ]
